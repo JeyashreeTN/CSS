@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>Change color</title>
+<style>
+p:hover {
+background-color: yellow
+}
+</style>
+</head>
+<body>
+<h1 style="text-align: center;">Change color on mouseover</h1>
+<p style="font-size: 30px; text-align: center;">Web development, also known as website development, refers to the tasks associated with creating building, and maintaining websites and web applications that run online on a browser. It may, however, also include web design, web programming, and database management.Web development types have been classified into front-end development, back-end development, and full-stack development. For an excellently interactive website or web app for your business, you need to have expert developers who are specialists in their calling.</p>
+</body>
+  </html>
+
